@@ -22,8 +22,7 @@ if (shake_remain <= 0) {
 // Taking Damage animation
 // Animation
 image_speed = 1
-image_xscale = enemy_xscale_flip
-image_yscale = enemy_yscale_flip
+image_angle = my_dir
 
 if sprite_index != s_enemy1_damaged {
 	image_index = 0;
