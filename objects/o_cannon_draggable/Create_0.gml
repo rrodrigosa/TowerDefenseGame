@@ -1,0 +1,1 @@
+draggable_color = c_white

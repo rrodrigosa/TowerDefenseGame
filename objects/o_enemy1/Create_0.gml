@@ -11,18 +11,20 @@ state = states.follow
 counter = 0
 
 // get fortress position
-my_dir = point_direction(x, y, o_fortress.x, o_fortress.y)
+if(instance_exists(o_fortress)) {
+	my_dir = point_direction(x, y, o_fortress.x, o_fortress.y)
+}
 
-walk_speed = 2
+walk_speed = global.spd
 horizontal_speed = lengthdir_x(walk_speed, my_dir)
 vertical_speed = lengthdir_y(walk_speed, my_dir)
-range_to_attack = 100
-enemy_xscale_flip = 1
-enemy_yscale_flip = 1
-
+enemy_range_to_attack = 100
+fire_rate = room_speed
+shooting = false
+enemy_to_shoot = noone
 
 // getting hit by the player
-health_points = 3
+health_points = global.hp
 flash = 0
 hit_from = 0
 

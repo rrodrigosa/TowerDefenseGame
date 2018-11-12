@@ -25,6 +25,6 @@ image_speed = 1
 image_angle = my_dir
 
 if sprite_index != s_enemy1_damaged {
-	image_index = 0;
+	image_index = 0
 	sprite_index = s_enemy1_damaged
 }

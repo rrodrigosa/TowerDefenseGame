@@ -8,7 +8,7 @@ x+= horizontal_speed
 y+= vertical_speed
 		
 // State Transition Trigger
-if (distance_to_object(o_fortress) <= range_to_attack) {
+if (distance_to_object(o_fortress) <= enemy_range_to_attack) {
 	state = states.charge_attack
 }
 
@@ -17,6 +17,6 @@ image_speed = 1
 image_angle = my_dir
 
 if sprite_index != s_enemy1 {
-	image_index = 0;
+	image_index = 0
 	sprite_index = s_enemy1
 }
