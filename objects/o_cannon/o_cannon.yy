@@ -5,33 +5,13 @@
     "name": "o_cannon",
     "eventList": [
         {
-            "id": "a60dc809-9272-40e8-b6bb-36b2ee746435",
+            "id": "bf37fe3b-7570-49a4-9d18-32a4744e1370",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "4ee1b9f4-01be-4eac-a552-bb2150cc64f4"
-        },
-        {
-            "id": "00623837-a8ba-4f7f-b2d5-5d23d3aa3032",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 8,
-            "m_owner": "4ee1b9f4-01be-4eac-a552-bb2150cc64f4"
-        },
-        {
-            "id": "b2a6d09d-8de5-40df-bf4d-a53ae74a3e81",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 2,
             "m_owner": "4ee1b9f4-01be-4eac-a552-bb2150cc64f4"
         }
     ],

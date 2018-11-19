@@ -1,11 +1,9 @@
-draw_self()
-
 if(mouseOver(x, y, sprite_width, sprite_height))
-	draw_circle(x, y, cannon_range_to_shoot, true)
+	draw_circle(x, y, defense_range_to_shoot, true)
 
 var enemy = instance_nearest(x, y, o_enemy1)
 if(enemy != noone) {
-	if(point_distance(x, y, enemy.x, enemy.y) <= cannon_range_to_shoot) {
+	if(point_distance(x, y, enemy.x, enemy.y) <= defense_range_to_shoot) {
 		if(!shooting) {
 			alarm[0] = 1
 			shooting = true
@@ -18,3 +16,5 @@ if(enemy != noone) {
 		enemy_to_shoot = noone
 	}
 }
+
+draw_self()

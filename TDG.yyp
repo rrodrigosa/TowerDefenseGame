@@ -95,10 +95,26 @@
             }
         },
         {
+            "Key": "2acd0848-2fe5-498e-9ad7-da4895e46ede",
+            "Value": {
+                "id": "4fde60dd-6436-47b5-ac64-21492e257ca5",
+                "resourcePath": "views\\2acd0848-2fe5-498e-9ad7-da4895e46ede.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "2b96d4b4-225a-4a62-a8a0-12dbf6266189",
             "Value": {
                 "id": "5b873025-cddd-4e15-80cf-34ee40d3b8c2",
                 "resourcePath": "objects\\o_camera\\o_camera.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "2c7f50bb-cd44-4969-9902-c1b136eba069",
+            "Value": {
+                "id": "043c075e-d8bf-420e-97ae-aa2301cd42d6",
+                "resourcePath": "objects\\par_defense_clickable\\par_defense_clickable.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -124,6 +140,14 @@
                 "id": "36f15ce5-a486-40b6-8b86-e7fb29f13d93",
                 "resourcePath": "rooms\\r_main\\r_main.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "3e042fb0-15c7-4d75-98ee-8b991070433b",
+            "Value": {
+                "id": "f2f6579a-72ba-44db-b085-95e8a21b0839",
+                "resourcePath": "objects\\par_defense_draggable\\par_defense_draggable.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -212,6 +236,14 @@
                 "id": "9ef2732b-f353-4445-a99f-30d25914f688",
                 "resourcePath": "views\\8e51fafb-c116-414e-b1f8-3cd0e8ab79cb.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8ef6af2f-c305-48a3-8f28-8ca04c0ad494",
+            "Value": {
+                "id": "9b72224a-29b0-4b23-abf2-5af0ff1e421e",
+                "resourcePath": "objects\\o_restart\\o_restart.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -458,7 +490,7 @@
             "Key": "d74b4263-fa2c-4e88-a342-fad4503d0f3f",
             "Value": {
                 "id": "abb8c3a4-c8ab-43f8-8f0d-2e537167c353",
-                "resourcePath": "objects\\o_cannon_parent\\o_cannon_parent.yy",
+                "resourcePath": "objects\\par_defense\\par_defense.yy",
                 "resourceType": "GMObject"
             }
         },

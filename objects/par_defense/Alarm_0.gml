@@ -6,4 +6,3 @@ if(instance_exists(enemy_to_shoot)) {
 } else {
 	shooting = false
 }
-	
