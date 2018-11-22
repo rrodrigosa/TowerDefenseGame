@@ -6,5 +6,8 @@ global.cam = view_camera[0] // change init room settings if the other rooms chan
 global.view_w_half = camera_get_view_width(global.cam) * 0.5
 global.view_h_half = camera_get_view_height(global.cam) * 0.5
 
+// -------------------- Initialize methods
+randomize()
+
 // -------------------- Go to next room
 room_goto_next()

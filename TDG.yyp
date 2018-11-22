@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0148c59c-fdf8-41d9-b1fd-32506dddc5f8",
+            "Value": {
+                "id": "1cd819b2-114f-494e-93e5-b7ce0e91af1d",
+                "resourcePath": "views\\0148c59c-fdf8-41d9-b1fd-32506dddc5f8.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "07018e6d-5838-4d3b-996f-8d785a86f665",
             "Value": {
                 "id": "b006224f-6004-463b-a0e9-85c9498ae16f",
@@ -228,6 +236,14 @@
                 "id": "055e7e40-7cfc-4b79-9c5f-eea4b3f89625",
                 "resourcePath": "objects\\o_enemy_spawn\\o_enemy_spawn.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "84e0a544-36e6-46a8-bf19-0162d878d844",
+            "Value": {
+                "id": "581c461f-af6e-42af-adf8-f09bb8b1ba34",
+                "resourcePath": "views\\84e0a544-36e6-46a8-bf19-0162d878d844.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -519,11 +535,35 @@
             }
         },
         {
+            "Key": "daee9c9d-950d-46b1-a544-05bc7df6e072",
+            "Value": {
+                "id": "be54b97b-4a36-452f-ae6c-35bd5f6a4318",
+                "resourcePath": "sprites\\sprite11\\sprite11.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "df4d9883-4d68-4635-bfc5-f84f5de437f4",
             "Value": {
                 "id": "8314f5a8-ba0b-4052-861f-a9e30de8152d",
                 "resourcePath": "views\\df4d9883-4d68-4635-bfc5-f84f5de437f4.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e14907a2-965a-4271-8d57-31e8a9eb4d43",
+            "Value": {
+                "id": "210ff7be-557b-45f5-bb93-8ce4a41828bc",
+                "resourcePath": "views\\e14907a2-965a-4271-8d57-31e8a9eb4d43.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e1989ed3-8825-4022-8efe-1ef7339db26e",
+            "Value": {
+                "id": "d9af69e6-060e-47d7-9d07-1d776bc772ec",
+                "resourcePath": "objects\\o_button_next_wave\\o_button_next_wave.yy",
+                "resourceType": "GMObject"
             }
         },
         {

@@ -1,5 +1,11 @@
 randomize()
 
+// quando o inimigo é criado, atualiza a flag do _enemy_spawn
+show_debug_message("Here - o_enemy1")
+with (o_enemy_spawn) {	
+	start_flag = true
+}
+
 enum states {
 	follow,
 	charge_attack,
