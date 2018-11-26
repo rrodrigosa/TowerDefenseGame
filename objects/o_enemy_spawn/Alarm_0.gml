@@ -1,15 +1,3 @@
-// working
-//if (spawn_count < spawn_amount) {
-//	// randomize the enemies position
-//	var xx = irandom_range(200, rw-200)
-//	var yy = irandom_range(200, rh-200)
-//	show_debug_message("Here - XX: "+string(xx))
-//	show_debug_message("Here - YY: "+string(yy))
-//	instance_create_layer(xx, yy, "Enemies", o_enemy1)
-//	spawn_count++
-//	alarm[0] = spawn_rate
-//}
-
 // testing respaw near borders
 if (spawn_count < spawn_amount) {
 	// randomize the enemies position

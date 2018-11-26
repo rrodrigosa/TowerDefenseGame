@@ -3,4 +3,5 @@ x = global.view_w_half
 y = global.view_h_half
 
 // fortress values
-health_points = 5
+max_health = 1
+current_health = max_health

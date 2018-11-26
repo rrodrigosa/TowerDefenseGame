@@ -12,8 +12,8 @@ global.level = 1
 // player values
 global.coins = 100
 
-// for gui resize
-display_set_gui_size(global.view_w_half, global.view_h_half);
+//// for gui resize
+//display_set_gui_size(global.view_w_half, global.view_h_half);
 
 rw = room_width
 rh = room_height

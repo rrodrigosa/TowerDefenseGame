@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "57bf4dd1-6cb2-401f-9e46-a7f8bf056799",
+            "Value": {
+                "id": "c0eefc1e-4868-4f83-b7e8-497eb42a58c6",
+                "resourcePath": "sprites\\s_fortress_health\\s_fortress_health.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5881e08e-fc40-4b2e-b60e-bc1997e2d159",
             "Value": {
                 "id": "94efe622-4aa2-42ff-baa9-74217d44f9c6",
@@ -407,6 +415,14 @@
             }
         },
         {
+            "Key": "b9eb900e-0696-4ef4-a3d1-ba5a079a959d",
+            "Value": {
+                "id": "0e3776c2-5825-4660-8802-e4fbf72ba31b",
+                "resourcePath": "objects\\o_fortress_health\\o_fortress_health.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "bcfb609a-98d1-4dcd-926d-7c54586fc062",
             "Value": {
                 "id": "6f4d5541-bfc5-4bb2-8305-be039e826108",
@@ -471,6 +487,14 @@
             }
         },
         {
+            "Key": "c971262e-83ff-4c5e-8ffc-ab4f51b1372c",
+            "Value": {
+                "id": "6f065f3f-ff91-4ef6-b8f6-0207deb70650",
+                "resourcePath": "views\\c971262e-83ff-4c5e-8ffc-ab4f51b1372c.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "cba9f508-9207-4ff8-9408-926e580ce2e6",
             "Value": {
                 "id": "2f237b05-0ae2-440d-8866-0e170147d561",
@@ -484,6 +508,14 @@
                 "id": "043504c5-c19d-49d8-a10b-a1c5e7f2271a",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d171fdbc-ed1d-4908-bd9c-5e08d0c733cf",
+            "Value": {
+                "id": "a9cd24cc-50be-4b64-8236-92c4bf4a2bfa",
+                "resourcePath": "fonts\\fnt_gui\\fnt_gui.yy",
+                "resourceType": "GMFont"
             }
         },
         {
