@@ -1,1 +1,1 @@
-global.coins += 10
+global.coins += 20

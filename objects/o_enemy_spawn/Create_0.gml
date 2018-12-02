@@ -5,12 +5,12 @@ spawn_rate = room_speed
 alarm[0] = spawn_rate
 
 // enemies values
-global.hp = 3
-global.spd = 2
+global.hp = 1
+global.spd = 1
 global.level = 1
 
 // player values
-global.coins = 100
+global.coins = 50
 
 //// for gui resize
 //display_set_gui_size(global.view_w_half, global.view_h_half);

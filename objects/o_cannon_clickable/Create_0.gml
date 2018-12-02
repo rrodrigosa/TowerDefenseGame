@@ -2,4 +2,4 @@
 event_inherited();
 
 draggable = o_cannon_draggable;
-cost = 50
+cost = 20
