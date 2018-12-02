@@ -1,4 +1,4 @@
 /// @description Create the Blueprint at the Mouse Position
-if(global.coins >= cost) {
+if(global.coins >= cost && !instance_exists(draggable)) {
 	instance_create_depth(mouse_x, mouse_y, -9, draggable)
 }
