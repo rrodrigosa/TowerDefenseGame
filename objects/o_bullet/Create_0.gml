@@ -1,0 +1,1 @@
+ammo_type = ammo_types.normal

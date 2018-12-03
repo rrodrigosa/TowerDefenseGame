@@ -2,7 +2,7 @@
     "id": "daee9c9d-950d-46b1-a544-05bc7df6e072",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprite11",
+    "name": "s_button_next_wave",
     "For3D": false,
     "HTile": false,
     "VTile": false,

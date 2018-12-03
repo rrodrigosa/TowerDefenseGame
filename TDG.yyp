@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "14c9542f-144b-4655-b41b-92102d4940b1",
+            "Value": {
+                "id": "6a68e9c2-c075-42f0-b4ed-4f2d916d7926",
+                "resourcePath": "sprites\\s_button_normal_bullet\\s_button_normal_bullet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "16c6f5cc-18d3-4840-983b-9d0529c628a7",
             "Value": {
                 "id": "84a9a24e-6f09-43a0-9c64-1ffe8ddd3384",
@@ -183,6 +191,14 @@
             }
         },
         {
+            "Key": "3b53a56b-7c2e-43ff-bdc3-e786b8eab3ff",
+            "Value": {
+                "id": "9069f7b4-593e-4f99-afbe-4b8a606dd596",
+                "resourcePath": "objects\\o_button_fire_bullet\\o_button_fire_bullet.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3c38cafd-e774-4684-8379-a07b9fbf3112",
             "Value": {
                 "id": "36f15ce5-a486-40b6-8b86-e7fb29f13d93",
@@ -204,6 +220,14 @@
                 "id": "1216477c-0c9a-44ab-a3de-a0d64d21e6fb",
                 "resourcePath": "scripts\\enemy1FollowState\\enemy1FollowState.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "491b97e2-418d-40f2-89f6-eddcfed67de1",
+            "Value": {
+                "id": "cc73e5e5-e15f-433b-a3fb-4b58d0eaa00a",
+                "resourcePath": "sprites\\s_fire_bullet\\s_fire_bullet.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -268,6 +292,14 @@
                 "id": "fde919bb-194e-42a5-8346-c997e9577612",
                 "resourcePath": "scripts\\screenShake\\screenShake.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "7ae28480-014a-43bc-a343-0dac9a46392e",
+            "Value": {
+                "id": "ea65deea-977a-4b41-9f15-cf640b64a46f",
+                "resourcePath": "sprites\\s_button_ice_bullet\\s_button_ice_bullet.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -375,6 +407,14 @@
             }
         },
         {
+            "Key": "9f7cd88b-86d1-49be-af4d-6acdc95b0f95",
+            "Value": {
+                "id": "178d1caa-c249-4930-a8c7-b7cf445066e2",
+                "resourcePath": "objects\\o_button_ice_bullet\\o_button_ice_bullet.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a0a85451-490b-4c7b-98a1-01246b808758",
             "Value": {
                 "id": "f7e74e49-3fde-4bfb-bdeb-cf6c42754f9b",
@@ -451,6 +491,22 @@
             "Value": {
                 "id": "69daed14-37f0-4f66-b056-0c18c66d8dad",
                 "resourcePath": "sprites\\s_enemy1_bk\\s_enemy1_bk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b396025f-018c-4763-b153-bb3e656f77e6",
+            "Value": {
+                "id": "24c6f003-a457-410e-aecf-f6b571747392",
+                "resourcePath": "objects\\o_button_normal_bullet\\o_button_normal_bullet.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b44e9aa0-9aa2-4a75-80b3-0fa8b0e2466d",
+            "Value": {
+                "id": "2904b613-3614-4c3c-aeaf-eae9ffa84424",
+                "resourcePath": "sprites\\s_ice_bullet\\s_ice_bullet.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -626,7 +682,7 @@
             "Key": "daee9c9d-950d-46b1-a544-05bc7df6e072",
             "Value": {
                 "id": "be54b97b-4a36-452f-ae6c-35bd5f6a4318",
-                "resourcePath": "sprites\\sprite11\\sprite11.yy",
+                "resourcePath": "sprites\\s_button_next_wave\\s_button_next_wave.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -676,6 +732,14 @@
                 "id": "26498796-b2d5-4646-be8c-7574e2b0717f",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f4ae7cdd-facc-4798-b79b-e721251040c2",
+            "Value": {
+                "id": "98c8b40e-f67b-4ea9-8828-ec90b7f14d83",
+                "resourcePath": "sprites\\s_button_fire_bullet\\s_button_fire_bullet.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
