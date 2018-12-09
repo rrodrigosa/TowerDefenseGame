@@ -1,4 +1,3 @@
-// testing respaw near borders
 if (spawn_count < spawn_amount) {
 	// randomize the enemies position
 	// first decides wich side will be (top, bottom, left, right)
@@ -43,4 +42,7 @@ if (spawn_count < spawn_amount) {
 	instance_create_layer(xx, yy, "Enemies", o_enemy1)
 	spawn_count++
 	alarm[0] = spawn_rate
+	wave_finished = false
+} else {
+	wave_finished = true
 }

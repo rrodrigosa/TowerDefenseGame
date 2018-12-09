@@ -3,7 +3,6 @@ fire_rate = room_speed
 shooting = false
 enemy_to_shoot = noone
 
-// ammunition type test
 enum ammo_types {
 	normal,
 	ice,

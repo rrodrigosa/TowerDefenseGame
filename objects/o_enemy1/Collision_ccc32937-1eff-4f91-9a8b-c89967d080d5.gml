@@ -1,13 +1,11 @@
-health_points--
-
-// ammo types tests
 with(other) {
 	if (ammo_type == ammo_types.normal) {
-		show_debug_message("Tiro normal")
+		other.health_points--
 	} else if(ammo_type == ammo_types.ice) {
-		show_debug_message("Tiro gelo")
+		other.health_points--
+		other.enemy_speed = 0.4
 	} else {
-		show_debug_message("Tiro fogo")
+		other.health_points = other.health_points - 2
 	}
 	instance_destroy()
 }

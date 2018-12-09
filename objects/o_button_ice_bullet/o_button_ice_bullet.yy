@@ -4,11 +4,20 @@
     "mvc": "1.0",
     "name": "o_button_ice_bullet",
     "eventList": [
-        
+        {
+            "id": "a821e44c-2a7a-4a60-b064-36bfd3e5668c",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "9f7cd88b-86d1-49be-af4d-6acdc95b0f95"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "1f1ee970-c67b-4ebb-96d8-f0aa1d1a59d7",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,

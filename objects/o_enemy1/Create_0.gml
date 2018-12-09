@@ -16,7 +16,7 @@ state = states.follow
 counter = 0
 
 my_dir = 0
-walk_speed = global.spd
+enemy_speed = global.spd
 horizontal_speed = 0
 vertical_speed = 0
 enemy_range_to_attack = 100

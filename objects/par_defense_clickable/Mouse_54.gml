@@ -1,0 +1,1 @@
+with (par_button_bullet) instance_destroy()

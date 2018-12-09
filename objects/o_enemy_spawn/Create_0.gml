@@ -20,3 +20,4 @@ rh = room_height
 
 // first time flag. prevents the stepevent if being called once the room starts
 start_flag = false
+wave_finished = false

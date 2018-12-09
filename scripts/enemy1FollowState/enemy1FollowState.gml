@@ -2,8 +2,8 @@
 if(instance_exists(o_fortress)) {
 	my_dir = point_direction(x, y, o_fortress.x, o_fortress.y)
 }
-horizontal_speed = lengthdir_x(walk_speed, my_dir)
-vertical_speed = lengthdir_y(walk_speed, my_dir)
+horizontal_speed = lengthdir_x(enemy_speed, my_dir)
+vertical_speed = lengthdir_y(enemy_speed, my_dir)
 x+= horizontal_speed
 y+= vertical_speed
 		
