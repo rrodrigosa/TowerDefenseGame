@@ -1,4 +1,4 @@
-if(mouseOver(x, y, sprite_width, sprite_height))
+//if(mouseOver(x, y, sprite_width, sprite_height))
 	draw_circle(x, y, defense_range_to_shoot, true)
 
 var enemy = instance_nearest(x, y, o_enemy1)

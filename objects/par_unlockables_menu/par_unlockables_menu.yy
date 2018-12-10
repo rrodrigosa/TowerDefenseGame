@@ -2,7 +2,7 @@
     "id": "f5eb5515-a494-47fa-a833-652868e1c6f2",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "par_unlockables_menu_bullets",
+    "name": "par_unlockables_menu",
     "eventList": [
         {
             "id": "8296006a-4492-4945-bb90-be8ac3735984",

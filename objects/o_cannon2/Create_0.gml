@@ -1,8 +1,9 @@
 // Inherit the parent event
 event_inherited();
 
-defense_range_to_shoot = 900
+defense_range_to_shoot = global.total_range_upgrade_defense2
 fire_rate = room_speed
 shooting = false
 enemy_to_shoot = noone
 ammo_type = ammo_types.normal
+my_object = "o_cannon2"
